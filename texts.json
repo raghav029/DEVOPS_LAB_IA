@@ -1,0 +1,14 @@
+{
+    "AppStrings": {
+      "enjoyListening": "Enjoy Listening To Music",
+      "loremText": "Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum Lorem Epsum",
+      "getStarted": "Get Started"
+    },
+    "SignupLogin": {
+      "enjoyListening": "Enjoy Listening To Music",
+      "spotifyDescription": "Spotify is a proprietary Swedish audio streaming and media services provider",
+      "register": "Register",
+      "signIn": "Sign in"
+    }
+  }
+  
